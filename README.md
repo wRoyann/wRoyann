@@ -43,20 +43,27 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center"
-    <a href="https://github.com/wRoyann">
-    <img
-        height="180em"
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=wRoyann&show_icons=true&theme=transparent&bg_color=FFFFFF&title_color=2563EB&icon_color=2563EB&text_color=1E40AF&border_color=3B82F6&border_radius=12&cache_seconds=7200"
-        alt="wRoyann's GitHub Stats"
-    />
-    </a>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wRoyann&theme=default&background=FFFFFF&border=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=1D4ED8&sideLabels=2563EB&currStreakNum=1D4ED8&sideNums=2563EB&dates=60A5FA)
-
-</p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=wRoyann&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&cache_seconds=86400" alt="wRoyann's GitHub Trophies" />
+  <img
+    height="180em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=wRoyann&show_icons=true&theme=transparent&bg_color=FFFFFF&title_color=2563EB&icon_color=2563EB&text_color=1E40AF&border_color=3B82F6&border_radius=12"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=wRoyann&theme=default&background=FFFFFF&border=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=1D4ED8&sideLabels=2563EB&currStreakNum=1D4ED8&sideNums=2563EB&dates=60A5FA"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://trophy.ryglcloud.net/?username=wRoyann&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8"
+    alt="GitHub Trophies"
+  />
 </p>
 
 <!--
