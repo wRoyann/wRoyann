@@ -1,6 +1,6 @@
 <!-- Banner besar dengan inisial nama -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=RB&fontSize=90&fontColor=FF6B4A&fontAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:0056b3&height=180&section=header&text=RB&fontSize=90&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 </p>
 
 <h1>👋 Hi, I'm Nur Muhammad Royan Birallah</h1>
@@ -12,7 +12,7 @@
 <!-- Animasi teks berjalan (Typing SVG) -->
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6B4A&center=false&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika;Belajar+Web+%26+Software+Development;Terus+Belajar%2C+Terus+Berkarya!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1E90FF&center=false&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika;Belajar+Web+%26+Software+Development;Terus+Belajar%2C+Terus+Berkarya!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,8 +34,8 @@ Fokus saya saat ini adalah <b>memahami dasar-dasar pemrograman dengan kuat</b>, 
 
 <!-- Profile view counter + badge status -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=wRoyann&label=Profile%20Views&color=FF6B4A&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Mahasiswa%20Aktif-brightgreen?style=flat" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=wRoyann&label=Profile%20Views&color=1E90FF&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Mahasiswa%20Aktif-1E90FF?style=flat&labelColor=ffffff" alt="Status" />
 </p>
 
 ---
@@ -43,23 +43,23 @@ Fokus saya saat ini adalah <b>memahami dasar-dasar pemrograman dengan kuat</b>, 
 ### 🔗 Media Sosial
 
 <p align="left">
-  <a href="https://instagram.com/wRoyann" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <a href="https://instagram.com/USERNAME_KAMU" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/wRoyann" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/USERNAME_KAMU" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/wRoyann" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+  <a href="https://twitter.com/USERNAME_KAMU" target="_blank">
+    <img src="https://img.shields.io/badge/X-1E90FF?style=for-the-badge&logo=X&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@wRoyann" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+  <a href="https://youtube.com/@USERNAME_KAMU" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-1E90FF?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
   <a href="https://wa.me/62xxxxxxxxxxx" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-1E90FF?style=for-the-badge&logo=WhatsApp&logoColor=white" />
   </a>
   <a href="mailto:emailkamu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -68,7 +68,8 @@ Fokus saya saat ini adalah <b>memahami dasar-dasar pemrograman dengan kuat</b>, 
 ### 🛠️ Bahasa Pemrograman & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,python,java,php,mysql,mongodb,git,github,docker,figma,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode&theme=light" />
+  <img src="https://img.shields.io/badge/Pawno-1E90FF?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
 ---
@@ -76,16 +77,16 @@ Fokus saya saat ini adalah <b>memahami dasar-dasar pemrograman dengan kuat</b>, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wRoyann&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wRoyann&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wRoyann&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=1E90FF&text_color=000000&icon_color=1E90FF&border_color=1E90FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wRoyann&layout=compact&bg_color=ffffff&title_color=1E90FF&text_color=000000&border_color=1E90FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wRoyann&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wRoyann&background=ffffff&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wRoyann&theme=radical&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wRoyann&theme=flat&row=1&column=7&title.color=1E90FF&text.color=000000&icon.color=1E90FF&background=ffffff" />
 </p>
 
 ---
@@ -93,7 +94,7 @@ Fokus saya saat ini adalah <b>memahami dasar-dasar pemrograman dengan kuat</b>, 
 ### 📈 Aktivitas Grafik (Animasi)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wRoyann&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wRoyann&bg_color=ffffff&color=1E90FF&line=1E90FF&point=000000&area=true&hide_border=true" />
 </p>
 
 ---
@@ -107,7 +108,7 @@ Fokus saya saat ini adalah <b>memahami dasar-dasar pemrograman dengan kuat</b>, 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0056b3&height=120&section=footer" />
 </p>
 
 <p align="center">⭐️ Terima kasih sudah mampir ke profil saya!</p>
