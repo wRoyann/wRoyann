@@ -56,7 +56,7 @@
 
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=wRoyann&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&cache_seconds=86400" alt="wRoyann's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=wRoyann&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&cache_seconds=86400" alt="wRoyann's GitHub Trophies" />
 </p>
 
 <!--
