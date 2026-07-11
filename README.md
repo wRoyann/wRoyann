@@ -55,6 +55,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wRoyann&theme=default&background=FFFFFF&border=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=1D4ED8&sideLabels=2563EB&currStreakNum=1D4ED8&sideNums=2563EB&dates=60A5FA)
 
 </p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=wRoyann&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&cache_seconds=86400" alt="wRoyann's GitHub Trophies" />
+</p>
 
 <!--
 🐍 Contribution Snake
