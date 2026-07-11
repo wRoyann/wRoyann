@@ -3,9 +3,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Nur+Muhammad+Royan+Birallah;Mahasiswa+Teknik+Informatika;Front-End+%7C+Web+%7C+Software+Developer;Selalu+Belajar+Hal+Baru+Setiap+Hari+%F0%9F%9A%80)
 
 ![Line](https://img.shields.io/badge/-%C2%A0-2563EB?style=flat-square&logoColor=white)
-[![Profile Views](https://komarev.com/ghpvc/?username=wRoyan&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/wRoyan)
-[![Followers](https://img.shields.io/github/followers/wRoyan?label=FOLLOWERS&style=for-the-badge&color=2563EB&labelColor=1D4ED8)](https://github.com/wRoyan)
-[![Stars](https://img.shields.io/github/stars/wRoyan?label=STARS&style=for-the-badge&color=60A5FA&labelColor=1D4ED8)](https://github.com/wRoyan)
+[![Profile Views](https://komarev.com/ghpvc/?username=wRoyann&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/wRoyann)
+[![Followers](https://img.shields.io/github/followers/wRoyann?label=FOLLOWERS&style=for-the-badge&color=2563EB&labelColor=1D4ED8)](https://github.com/wRoyann)
+[![Stars](https://img.shields.io/github/stars/wRoyann?label=STARS&style=for-the-badge&color=60A5FA&labelColor=1D4ED8)](https://github.com/wRoyann)
 
 ## 💙 About Me
 
@@ -14,7 +14,7 @@
 - 🌐 Senang mempelajari teknologi web modern terkini
 - 🛠️ Sedang membangun berbagai project untuk mengasah kemampuan
 - 📈 Punya semangat belajar dan berkembang setiap hari
-- 📫 Terhubung dengan saya melalui GitHub: **[@wRoyan](https://github.com/wRoyan)**
+- 📫 Terhubung dengan saya melalui GitHub: **[@wRoyann](https://github.com/wRoyann)**
 
 ![Line](https://img.shields.io/badge/-%C2%A0-1D4ED8?style=flat-square)
 
@@ -43,11 +43,11 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wRoyan&theme=default&background=FFFFFF&border=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=1D4ED8&sideLabels=2563EB&currStreakNum=1D4ED8&sideNums=2563EB&dates=60A5FA)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wRoyann&theme=default&background=FFFFFF&border=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=1D4ED8&sideLabels=2563EB&currStreakNum=1D4ED8&sideNums=2563EB&dates=60A5FA)
 
 <!--
 🐍 Contribution Snake
-Aktifkan dengan menambahkan GitHub Actions workflow "snk" pada repository wRoyan/wRoyan
+Aktifkan dengan menambahkan GitHub Actions workflow "snk" pada repository wRoyann/wRoyann
 lalu tampilkan hasilnya di sini:
 -->
 
