@@ -49,11 +49,17 @@
 🐍 Contribution Snake
 Aktifkan dengan menambahkan GitHub Actions workflow "snk" pada repository wRoyann/wRoyann
 lalu tampilkan hasilnya di sini:
+![Snake animation](https://raw.githubusercontent.com/wRoyann/wRoyann/output/github-contribution-grid-snake.svg)
 -->
 
-<!-- ![Snake Animation](https://raw.githubusercontent.com/wRoyann/wRoyann/output/github-contribution-grid-snake.svg) -->
-
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+![Line](https://img.shields.io/badge/-%C2%A0-1D4ED8?style=flat-square)
+
+## 🔗 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nmrynbirallah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-muhammad-royan-birallah)
 
 ![Line](https://img.shields.io/badge/-%C2%A0-1D4ED8?style=flat-square)
 
