@@ -49,7 +49,6 @@ Goals: • Become a Professional Software Developer
 ```
 
 <br>
-
 ## 💬 Quote
 
 > "First, solve the problem. Then, write the code."
