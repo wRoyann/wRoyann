@@ -8,21 +8,26 @@
 
 <p align="center">
 <a href="https://github.com/wRoyann">
-<img src="https://komarev.com/ghpvc/?username=wRoyann&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=wRoyann&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB&logo=github&logoColor=white"/>
 </a>
 <a href="https://github.com/wRoyann?tab=followers">
-<img src="https://img.shields.io/github/followers/wRoyann?style=for-the-badge&label=FOLLOWERS&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/wRoyann?style=for-the-badge&label=FOLLOWERS&color=1D4ED8&logo=github&logoColor=white"/>
 </a>
 <a href="https://github.com/wRoyann?tab=repositories">
-<img src="https://img.shields.io/github/stars/wRoyann?style=for-the-badge&label=TOTAL+STARS&color=3B82F6"/>
+<img src="https://img.shields.io/github/stars/wRoyann?style=for-the-badge&label=TOTAL+STARS&color=3B82F6&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/wRoyann?tab=repositories">
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOSITORIES&query=public_repos&url=https://api.github.com/users/wRoyann&color=60A5FA&logo=github&logoColor=white"/>
 </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=2563EB"/>
+<p align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1D4ED8,50:2563EB,100:60A5FA"/>
+</p>
 
 # 💙 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/5dUDvszss1jgU0Jr8d/giphy.gif"/>
 
 ```yaml
 Name: Nur Muhammad Royan Birallah
@@ -33,14 +38,18 @@ Education:
 Focus: • Front-End Development
   • Web Development
   • Software Development
-Currently Learning: • React
-  • Tailwind CSS
-  • JavaScript
-  • Git & GitHub
+Currently Learning: • React Ecosystem
   • REST API
-Goals: • Become Professional Software Developer
-  • Build Useful Applications
+  • Responsive Web Design
+  • Clean Code
+  • Software Architecture
+  • Software Development Best Practices
+Goals: • Become a Professional Software Developer
   • Contribute to Open Source
+  • Build Impactful Projects
+  • Deepen Front-End Development Skills
+  • Learn Back-End Development
+  • Sharpen Problem Solving Skills
 ```
 
 <br>
