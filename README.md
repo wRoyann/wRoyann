@@ -1,29 +1,21 @@
 <p align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B4F9C,25:2563EB,65:3B82F6,100:60A5FA&text=Nur%20Muhammad%20Royan%20Birallah&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Web%20Developer%20%7C%20Software%20Developer&descSize=18&descAlignY=58&animation=twinkling"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=Hi+There+👋;I'm+Royan;Front-End+Developer;Web+Developer;Software+Developer;Always+Learning+Something+New+🚀"/>
-
 </p>
 
 <p align="center">
-
 <a href="https://github.com/wRoyann">
 <img src="https://komarev.com/ghpvc/?username=wRoyann&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB"/>
 </a>
-
 <a href="https://github.com/wRoyann?tab=followers">
 <img src="https://img.shields.io/github/followers/wRoyann?style=for-the-badge&label=FOLLOWERS&color=2563EB"/>
 </a>
-
 <a href="https://github.com/wRoyann?tab=repositories">
 <img src="https://img.shields.io/github/stars/wRoyann?style=for-the-badge&label=TOTAL+STARS&color=3B82F6"/>
 </a>
-
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=2563EB"/>
@@ -35,21 +27,17 @@
 ```yaml
 Name: Nur Muhammad Royan Birallah
 Nickname: Royan
-
 Education:
   University: Universitas Pamulang
   Major: Teknik Informatika
-
 Focus: • Front-End Development
   • Web Development
   • Software Development
-
 Currently Learning: • React
   • Tailwind CSS
   • JavaScript
   • Git & GitHub
   • REST API
-
 Goals: • Become Professional Software Developer
   • Build Useful Applications
   • Contribute to Open Source
@@ -57,17 +45,8 @@ Goals: • Become Professional Software Developer
 
 <br>
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/wRoyann">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=2563EB"/>
+
 ## 🧰 Tech Stack
 
 ### Languages & Frameworks
