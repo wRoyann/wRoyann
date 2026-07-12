@@ -1,23 +1,73 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:2563EB,100:60A5FA&height=220&section=header&text=Hi%20There,%20I'm%20Royan%20👋&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Front-End%20%7C%20Web%20%7C%20Software%20Developer&descAlignY=58&descSize=18)
+<p align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Nur+Muhammad+Royan+Birallah;Mahasiswa+Teknik+Informatika;Front-End+%7C+Web+%7C+Software+Developer;Selalu+Belajar+Hal+Baru+Setiap+Hari+%F0%9F%9A%80)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B4F9C,25:2563EB,65:3B82F6,100:60A5FA&text=Nur%20Muhammad%20Royan%20Birallah&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Web%20Developer%20%7C%20Software%20Developer&descSize=18&descAlignY=58&animation=twinkling"/>
 
-![Line](https://img.shields.io/badge/-%C2%A0-2563EB?style=flat-square&logoColor=white)
-[![Profile Views](https://komarev.com/ghpvc/?username=wRoyann&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/wRoyann)
-[![Followers](https://img.shields.io/github/followers/wRoyann?label=FOLLOWERS&style=for-the-badge&color=2563EB&labelColor=1D4ED8)](https://github.com/wRoyann)
-[![Stars](https://img.shields.io/github/stars/wRoyann?label=STARS&style=for-the-badge&color=60A5FA&labelColor=1D4ED8)](https://github.com/wRoyann)
+</p>
 
-## 💙 About Me
+<p align="center">
 
-- 🎓 Mahasiswa **Teknik Informatika**, **Universitas Pamulang**
-- 💻 Fokus pada **Front-End Development**, **Web Development**, dan **Software Development**
-- 🌐 Senang mempelajari teknologi web modern terkini
-- 🛠️ Sedang membangun berbagai project untuk mengasah kemampuan
-- 📈 Punya semangat belajar dan berkembang setiap hari
-- 📫 Terhubung dengan saya melalui GitHub: **[@wRoyann](https://github.com/wRoyann)**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=Hi+There+👋;I'm+Royan;Front-End+Developer;Web+Developer;Software+Developer;Always+Learning+Something+New+🚀"/>
 
-![Line](https://img.shields.io/badge/-%C2%A0-1D4ED8?style=flat-square)
+</p>
 
+<p align="center">
+
+<a href="https://github.com/wRoyann">
+<img src="https://komarev.com/ghpvc/?username=wRoyann&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB"/>
+</a>
+
+<a href="https://github.com/wRoyann?tab=followers">
+<img src="https://img.shields.io/github/followers/wRoyann?style=for-the-badge&label=FOLLOWERS&color=2563EB"/>
+</a>
+
+<a href="https://github.com/wRoyann?tab=repositories">
+<img src="https://img.shields.io/github/stars/wRoyann?style=for-the-badge&label=TOTAL+STARS&color=3B82F6"/>
+</a>
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=2563EB"/>
+
+# 💙 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+```yaml
+Name: Nur Muhammad Royan Birallah
+Nickname: Royan
+
+Education:
+  University: Universitas Pamulang
+  Major: Teknik Informatika
+
+Focus: • Front-End Development
+  • Web Development
+  • Software Development
+
+Currently Learning: • React
+  • Tailwind CSS
+  • JavaScript
+  • Git & GitHub
+  • REST API
+
+Goals: • Become Professional Software Developer
+  • Build Useful Applications
+  • Contribute to Open Source
+```
+
+<br>
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/wRoyann">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=2563EB"/>
 ## 🧰 Tech Stack
 
 ### Languages & Frameworks
@@ -54,8 +104,6 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=wRoyann&theme=default&background=FFFFFF&border=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=1D4ED8&sideLabels=2563EB&currStreakNum=1D4ED8&sideNums=2563EB&dates=60A5FA"
     alt="GitHub Streak"
   />
-</p>
-<p align="center">
 </p>
 
 <p align="center">
