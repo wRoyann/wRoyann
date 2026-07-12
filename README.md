@@ -27,7 +27,7 @@
 
 # 💙 About Me
 
-<img align="right" width="320" src="https://pin.it/3McdnhSUy"/>
+<img align="right" width="320" src="https://64.media.tumblr.com/1d8a9d0997051c5dca2fc7dd47b30a24/tumblr_mhzo68KRsU1r6ousgo1_500.gif"/>
 
 ```yaml
 Name: Nur Muhammad Royan Birallah
