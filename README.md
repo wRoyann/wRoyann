@@ -31,16 +31,19 @@ Nickname: Royan
 Education:
   University: Universitas Pamulang
   Major: Teknik Informatika
-Focus: • Front-End Development
+Focus:
+  • Front-End Development
   • Web Development
   • Software Development
-Currently Learning: • React Ecosystem
+Currently Learning:
+  • React Ecosystem
   • REST API
   • Responsive Web Design
   • Clean Code
   • Software Architecture
   • Software Development Best Practices
-Goals: • Become a Professional Software Developer
+Goals:
+  • Become a Professional Software Developer
   • Contribute to Open Source
   • Build Impactful Projects
   • Deepen Front-End Development Skills
